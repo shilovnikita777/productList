@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CreativeProject</string>
+    <string name="title_activity_main_menu">main_menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="measures">
+        <item>Килограммы</item>
+        <item>Литры</item>
+        <item>Штуки</item>
+    </string-array>
+
+    <string name="myAlphaNumeric">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+</resources>
